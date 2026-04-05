@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+.layout {
+  display: flex;
+}
+
+.content {
+  margin-left: 220px;
+  padding: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--text-h);
+  font-family: sans-serif;
+}
+
+.content.collapsed {
+  margin-left: 90px;
+}
