@@ -4,7 +4,7 @@ An all-in-one movie booking platform that allows users to book tickets, get pers
 
 # 🚀 Features
 
-🎟️ ## Movie Ticket Booking
+## 🎟️ Movie Ticket Booking
 Browse movies and show timings
 Select seats in real-time
 Book tickets instantly
