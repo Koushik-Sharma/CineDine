@@ -13,17 +13,17 @@ body {
 }
 
 .content {
-  margin-left: 220px;
+  margin-left:200px;
   font-size: 18px;
   font-weight: bold;
   color: var(--text-h);
   font-family: sans-serif;
   flex: 1;
   height: 100vh;
-  padding: 20px;
+  padding:2px;
   transition: all 0.4s ease;
 }
 
 .content.collapsed {
-  margin-left: 90px;
+  margin-left: 70px;
 }
